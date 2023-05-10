@@ -1,5 +1,5 @@
 # python_selflearning
-Code to demonstrate how RSA and DH works (Note written in Japanese)
+This project demonstrates how RSA and DH works. It is designed for personal study purposes and not intended for production use. The input for RSA is limited to 1000 due to calculation process.
 
 Features
 --
@@ -8,10 +8,6 @@ Features
    - Decrypt encryped message and return original message
  - DH
    - Creates same key to use out of both's pair of private and public key
-
-Purpose
---
-The purpose of this project is to demonstrate how RSA and DH works. The project is designed for personal study purposes and is not intended for production use. The input of RSA is limited to 1000 due to calcalation process.
 
 Disclaimer
 --
